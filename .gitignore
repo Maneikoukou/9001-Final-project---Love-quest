@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# macOS
+.DS_Store
+._*
+
+# Runtime save data (generated when the game runs)
+save_data.json
+save_data.json.tmp
